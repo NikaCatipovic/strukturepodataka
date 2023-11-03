@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\nikac\OneDrive\Radna površina\strpod_23_24\zadatak2abc\zadatak2abc\Source.c(16,34): warning C4047: 'function': 'rsize_t' differs in levels of indirection from 'char *'
+C:\Users\nikac\OneDrive\Radna površina\strpod_23_24\zadatak2abc\zadatak2abc\Source.c(16,31): warning C4024: 'strcpy_s': different types for formal and actual parameter 2
+C:\Users\nikac\OneDrive\Radna površina\strpod_23_24\zadatak2abc\zadatak2abc\Source.c(16,13): error C2198: 'strcpy_s': too few arguments for call
