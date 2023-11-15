@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\nikac\OneDrive\Radna površina\strpod_23_24\zad4cili\zad4cili\Source.cpp(15,50): error C2440: 'initializing': cannot convert from 'void *' to 'Polinom *'
+C:\Users\nikac\OneDrive\Radna površina\strpod_23_24\zad4cili\zad4cili\Source.cpp(15,25): message : Conversion from 'void*' to pointer to non-'void' requires an explicit cast
